@@ -1,3 +1,4 @@
 [submodule "crates/llama-cpp-bindings/llama.cpp"]
 	path = crates/llama-cpp-bindings/llama.cpp
-	url = https://github.com/TabbyML/llama.cpp
+	url = https://github.com/JennToo/llama.cpp
+	branch = vulkan

@@ -8,6 +8,7 @@ default = ["ee"]
 ee = ["dep:tabby-webserver"]
 cuda = ["llama-cpp-bindings/cuda"]
 rocm = ["llama-cpp-bindings/rocm"]
+vulkan = ["llama-cpp-bindings/vulkan"]
 experimental-http = ["dep:http-api-bindings"]
 
 [dependencies]
